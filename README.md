@@ -1,4 +1,3 @@
 ## AdminUI
 
-//add image
-![img](preview.png')
+![img](./preview.png')
