@@ -1,3 +1,3 @@
 ## AdminUI
 
-![img](./preview.png')
+![img](./preview.png)
